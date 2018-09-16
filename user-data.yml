@@ -1,6 +1,6 @@
 #cloud-config
 # vim: syntax=yaml
-# flash --userdata myhub/user-data.yaml hypriotos-rpi-v1.9.0.img
+# flash --userdata myhub/user-data.yml hypriotos-rpi-v1.9.0.img
 
 # Set your hostname here, the manage_etc_hosts will update the hosts file entries as well
 hostname: dc1-pod1
